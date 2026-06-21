@@ -3,3 +3,4 @@ Hotfix
 Edited directly on GitHub
 Login Page
 Login Validation
+Signup Page
