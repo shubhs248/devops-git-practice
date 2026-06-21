@@ -7,3 +7,8 @@ Production Hotfix
 Signup Page
 Signup Validation
 Security Patch
+Profile Page
+Profile API
+Profile CSS
+Profile Validation
+Profile Tests
