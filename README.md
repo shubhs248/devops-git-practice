@@ -4,3 +4,4 @@ Edited directly on GitHub
 Login Page
 Login Validation
 Signup Page
+Signup Validation
