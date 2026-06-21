@@ -4,3 +4,5 @@ Edited directly on GitHub
 Login Page
 Login Validation
 Production Hotfix
+Signup Page
+Signup Validation
