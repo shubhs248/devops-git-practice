@@ -13,3 +13,7 @@ Profile CSS
 Profile Validation
 Profile Tests
 Payment Page
+Refactoring
+Critical Security Fix
+
+GitHub CLI practice completed on Day 26.
